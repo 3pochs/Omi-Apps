@@ -15,7 +15,7 @@ from typing import Optional
 AI_CONFIG = {
     "gemini": {
         # Gemini API Key
-        "api_key": "AIzaSyCLXzS4Dh8B0wR4OAoaGRw61fMSNA6JgNk",
+        "api_key": "Your-API-Here",
         # Change the model name below to switch Gemini models
         "model": "gemini-2.0-flash"
     },
